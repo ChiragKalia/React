@@ -1,6 +1,6 @@
 // Example of Conditional Rendering in React
 
-import './UserGreeting.css'
+import './css/UserGreeting.css'
 
 import PropTypes from 'prop-types'
 

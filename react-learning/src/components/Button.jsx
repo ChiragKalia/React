@@ -1,6 +1,6 @@
 //Example on handling buttonClick events in React.
 
-import './Button.css'
+import './css/Button.css'
 
 const Button = () => {
 

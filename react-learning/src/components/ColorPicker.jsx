@@ -2,7 +2,7 @@
 // Demonstrates useState and handling input change events
 // 
 import React, {useState} from 'react'
-import './ColorPicker.css'
+import './css/ColorPicker.css'
 
 const ColorPicker = () => {
 

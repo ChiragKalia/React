@@ -1,4 +1,4 @@
-import './Card.css'
+import './css/Card.css'
 
 // Example of a Card component in React
 

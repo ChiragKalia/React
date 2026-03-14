@@ -1,6 +1,6 @@
 //Example of a functional component with props and default values
 
-import './Student.css'
+import './css/Student.css'
 import PropTypes from 'prop-types'
 
 const Student = ({ name = "Unknown", age = 0, isStudent = false }) => {

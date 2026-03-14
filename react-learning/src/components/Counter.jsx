@@ -1,7 +1,7 @@
 //Example on useState Hook for a simple counter application
 
 import { useState } from 'react'
-import './Counter.css'
+import './css/Counter.css'
 
 const Counter = () => {
     const [count, setcount] = useState(0);

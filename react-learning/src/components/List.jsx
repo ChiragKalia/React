@@ -1,6 +1,6 @@
 // Example of List component with props, default props, prop types, sorting and filtering
 
-import './List.css'
+import './css/List.css'
 import PropTypes from 'prop-types'
 
 const List = ({items=[], category="Category"}) => {
